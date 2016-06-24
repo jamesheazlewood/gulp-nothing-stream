@@ -1,0 +1,23 @@
+{
+  "name": "gulp-nothing-stream",
+  "version": "1.0.0",
+  "description": "Allows you to pipe nothing if you like. Think of how PHP allows you to have commas at the last array element. This can allow you to have commas and then pipe(nothing); on a new line.",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/jamesheazlewood/gulp-nothing-stream.git"
+  },
+  "keywords": [
+    "gulp",
+    "lazy"
+  ],
+  "author": "James Heazlewood",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jamesheazlewood/gulp-nothing-stream/issues"
+  },
+  "homepage": "https://github.com/jamesheazlewood/gulp-nothing-stream#readme"
+}
